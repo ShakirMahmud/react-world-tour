@@ -1,0 +1,19 @@
+.country{
+    border: 2px solid goldenrod;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: rgba(235, 235, 117, 0.5);
+}
+img{
+    width: auto;
+    height:100px;
+    max-width: 400px;
+    margin: 0 auto;
+    display: block;
+    object-fit: contain;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+   
+}
