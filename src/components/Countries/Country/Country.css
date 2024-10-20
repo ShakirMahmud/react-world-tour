@@ -4,7 +4,7 @@
     padding: 10px;
     margin: 10px;
     text-align: center;
-    background-color: rgba(235, 235, 117, 0.5);
+    background-color: rgba(230, 230, 218, 0.5);
 }
 img{
     width: auto;
@@ -16,4 +16,19 @@ img{
     border-radius: 10px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
    
+}
+button{
+    margin-top: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #646cff;
+    color: black;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.visited{
+    background-color: rgb(7, 6, 3);
+    color: white;
+    font-weight: bold;
 }
